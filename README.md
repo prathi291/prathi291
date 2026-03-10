@@ -22,14 +22,9 @@ prathibhadevangp@gmail.com
 
 ---
 
-## 🛠️ Skills
+## 🛠 Skills & Technologies
 
-- React
-- Node.js
-- MongoDB
-- JavaScript
-- HTML
-- CSS
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode)
 
 ---
 
