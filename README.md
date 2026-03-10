@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Prathibha BR
 
-<!--
-**prathi291/prathi291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 CSE Student | Full Stack Web Developer
 
-Here are some ideas to get you started:
+I enjoy building real-world web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🔭 Currently working on: **SkillHub LMS**
+
+🌱 Learning: **React.js, Node.js, MongoDB**
+
+👩‍🎓 Student at **Kalpataru Institute of Technology**
+
+🌐 Portfolio:  
+https://prathi-21.vercel.app/
+
+📫 Reach me at:  
+prathibhadevangp@gmail.com
+
+---
+
+## 🛠️ Skills
+
+- React
+- Node.js
+- MongoDB
+- JavaScript
+- HTML
+- CSS
+
+---
+
+## 🚀 Projects
+
+### SkillHub LMS
+Full stack learning management system built using  
+React + Node.js + MongoDB Atlas.
+
+---
+---
+
+## ✨ Quote
+
+"Keep learning, keep building."
