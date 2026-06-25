@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Prathibha B R</h1>
-<h3 align="center">Software Developer | Java & Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">💻 Software Developer | ⚡ Full-Stack Java Developer | 🚀 Problem Solver</h3>
+
+<p align="center">
+  <a href="https://prathi-21.vercel.app/" target="_blank">🌐 Portfolio</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/prathi291" target="_blank">💻 GitHub</a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate Software Developer focused on Full-Stack Development
-- 🌱 Skilled in Java, Spring Boot, React, and MongoDB
-- 🔍 Interested in building real-world applications and scalable systems
-- 🎯 Always learning new technologies and improving coding skills
-- 🤝 Open to collaboration and internship opportunities
+- 💻 Passionate Full-Stack Developer
+- 🌱 Skilled in Java, Spring Boot, React, Node.js, and MongoDB
+- 🔍 Interested in building real-world scalable applications
+- 🎯 Focused on clean code and continuous learning
+- 🤝 Open to internships and collaboration opportunities
 
 ---
 
@@ -31,50 +37,42 @@
 
 ## 🌟 Projects
 
-### 🔹 SkillHub LMS (Full-Stack Learning Platform)
+### 🔹 SkillHub LMS
+📚 Full-stack Learning Management System built with React, Node.js, Express, and MongoDB.
 
-A modern Learning Management System built using **React, Node.js, Express, and MongoDB Atlas**.
-
-**Key Features:**
+✨ Features:
 - JWT Authentication
-- Course catalog & video learning system
-- AI Chat Assistant (OpenAI)
+- Course & video learning system
+- AI Chat Assistant 🤖
 - Progress tracking system
-- PDF certificate generation
-- Wishlist & reviews system
-- Light/Dark mode
-
-**Tech Stack:** React, Node.js, Express, MongoDB, JWT
-
-👉 Developed as a full-stack project for learning management and career development.
+- Certificate generation 📜
 
 ---
 
 ### 🔹 Career Mock
+🎯 Career preparation platform for interview practice and skill development.
 
-A career preparation platform designed to help users improve interview skills and job readiness.
-
-**Key Features:**
-- Mock interview practice system
-- Question & answer evaluation
-- Skill improvement tracking
-- User-friendly learning experience
-
-**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+✨ Features:
+- Mock interview practice
+- Skill evaluation system
+- Career readiness improvement
 
 ---
 
 ### 🔹 Weather App
+🌤️ Simple weather application using React and API integration.
 
-A simple weather application to check real-time weather of any city.
+✨ Features:
+- Real-time weather updates
+- City search functionality
+- Clean responsive UI
 
-**Features:**
-- City-based weather search
-- Temperature, humidity & conditions
-- API-based live weather data
-- Responsive UI
+---
 
-**Tech Stack:** React, Vite, Weather API, CSS
+## 🌐 Portfolio
+
+🚀 Visit my portfolio to explore more:  
+👉 **https://prathi-21.vercel.app/**
 
 ---
 
@@ -92,8 +90,9 @@ A simple weather application to check real-time weather of any city.
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/prathi291
+- 🌐 Portfolio: https://prathi-21.vercel.app/
+- 💻 GitHub: https://github.com/prathi291
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ *Thanks for visiting my profile!*
