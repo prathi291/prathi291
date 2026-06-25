@@ -1,46 +1,48 @@
-<h1 align="center">Hi 👋, I'm Prathibha B R</h1>
-<h3 align="center">Software Developer | Technology Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Prathi</h1>
+<h3 align="center">Software Developer | Java Enthusiast | Continuous Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathi291&label=Profile%20views&color=0e75b6&style=flat" alt="prathi291" />
-</p>
+---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning and exploring new technologies
 - 💻 Passionate about software development and problem-solving
-- 🔭 Working on personal and open-source projects
-- 📚 Always eager to learn and improve
-- ⚡ Fun fact: I enjoy turning ideas into working solutions
+- 🌱 Continuously learning new technologies and frameworks
+- 🔭 Working on projects that enhance skills and create real-world impact
+- 🤝 Interested in collaborative development and open-source contributions
+- 🎯 Focused on building scalable and efficient applications
 
-## 🛠️ Tech Stack
+---
 
-### Languages
-- Java
-- Python
-- JavaScript
-- SQL
+## 🛠️ Skills
 
-### Frontend
-- HTML5
-- CSS3
-- React
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Backend
-- Node.js
-- Express.js
+---
 
-### Database
-- MySQL
-- MongoDB
+## 🌟 Featured Project
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Docker
+### 🔹 Career Mock Skill Hub
 
-## 📊 GitHub Stats
+A career development platform designed to help learners and job seekers improve their professional skills through:
+
+- Mock interviews
+- Skill assessments
+- Career guidance resources
+- Learning and development tools
+- Progress tracking and feedback
+
+**Technologies Used:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prathi291&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -50,26 +52,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathi291&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 📈 Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathi291&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 🌟 Featured Projects
+---
 
-- 🔹 Project 1 – Brief description
-- 🔹 Project 2 – Brief description
-- 🔹 Project 3 – Brief description
+## 📫 Connect With Me
 
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://github.com/prathi291" target="blank">
-GitHub
-</a>
-</p>
+- GitHub: https://github.com/prathi291
 
 ---
 
-⭐️ From [prathi291](https://github.com/prathi291)
+⭐ Thanks for visiting my profile!
