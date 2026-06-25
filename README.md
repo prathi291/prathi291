@@ -1,67 +1,102 @@
-<h1 align="center">Hi 👋, I'm Prathi</h1>
-<h3 align="center">Software Developer | Java Enthusiast | Continuous Learner</h3>
+# Hi 👋, I'm Prathibha B R
+
+### Software Developer | Java Developer | Continuous Learner
+
+Passionate about building impactful software solutions and continuously expanding my technical expertise. I enjoy developing applications that solve real-world problems, enhance user experiences, and support learning and career growth.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about software development and problem-solving
-- 🌱 Continuously learning new technologies and frameworks
-- 🔭 Working on projects that enhance skills and create real-world impact
-- 🤝 Interested in collaborative development and open-source contributions
-- 🎯 Focused on building scalable and efficient applications
+* 💻 Software Developer with a strong interest in Java and Full-Stack Development
+* 🌱 Continuously learning new technologies and industry best practices
+* 🔍 Enthusiastic about problem-solving and software design
+* 🤝 Open to collaboration on innovative projects
+* 🎯 Focused on creating scalable, efficient, and user-friendly applications
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Programming Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## 🌟 Featured Project
+### Backend Development
 
-### 🔹 Career Mock Skill Hub
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 
-A career development platform designed to help learners and job seekers improve their professional skills through:
+### Frontend Development
 
-- Mock interviews
-- Skill assessments
-- Career guidance resources
-- Learning and development tools
-- Progress tracking and feedback
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-**Technologies Used:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## 🌟 Featured Projects
+
+### 🔹 Career Mock
+
+A career preparation platform designed to help job seekers build confidence and improve interview readiness through mock interview sessions, evaluation mechanisms, and structured feedback.
+
+**Key Features:**
+
+* Mock interview practice
+* Performance evaluation
+* Career readiness support
+* User-friendly interface
+
+**Technologies:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+
+---
+
+### 🔹 Skill Hub
+
+A learning and skill development platform created to support users in enhancing their technical and professional competencies through organized learning resources and skill assessment features.
+
+**Key Features:**
+
+* Skill development resources
+* Learning management features
+* User progress tracking
+* Career growth support
+
+**Technologies:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathi291&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathi291&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathi291&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathi291&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathi291&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+---
+
+## 🎯 Career Objective
+
+To contribute to innovative software solutions while continuously enhancing my technical expertise and professional skills. I am passionate about leveraging technology to create meaningful and efficient applications that deliver value to users.
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/prathi291
+* GitHub: https://github.com/prathi291
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thank you for visiting my profile!
