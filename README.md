@@ -1,101 +1,98 @@
-# Hi 👋, I'm Prathibha B R
-
-### Software Developer | Java Developer | Continuous Learner
-
-Passionate about building impactful software solutions and continuously expanding my technical expertise. I enjoy developing applications that solve real-world problems, enhance user experiences, and support learning and career growth.
+<h1 align="center">Hi 👋, I'm Prathibha B R</h1>
+<h3 align="center">Software Developer | Java & Full-Stack Developer | Problem Solver</h3>
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Software Developer with a strong interest in Java and Full-Stack Development
-* 🌱 Continuously learning new technologies and industry best practices
-* 🔍 Enthusiastic about problem-solving and software design
-* 🤝 Open to collaboration on innovative projects
-* 🎯 Focused on creating scalable, efficient, and user-friendly applications
+- 💻 Passionate Software Developer focused on Full-Stack Development
+- 🌱 Skilled in Java, Spring Boot, React, and MongoDB
+- 🔍 Interested in building real-world applications and scalable systems
+- 🎯 Always learning new technologies and improving coding skills
+- 🤝 Open to collaboration and internship opportunities
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Backend Development
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-
-### Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects
+
+### 🔹 SkillHub LMS (Full-Stack Learning Platform)
+
+A modern Learning Management System built using **React, Node.js, Express, and MongoDB Atlas**.
+
+**Key Features:**
+- JWT Authentication
+- Course catalog & video learning system
+- AI Chat Assistant (OpenAI)
+- Progress tracking system
+- PDF certificate generation
+- Wishlist & reviews system
+- Light/Dark mode
+
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT
+
+👉 Developed as a full-stack project for learning management and career development.
+
+---
 
 ### 🔹 Career Mock
 
-A career preparation platform designed to help job seekers build confidence and improve interview readiness through mock interview sessions, evaluation mechanisms, and structured feedback.
+A career preparation platform designed to help users improve interview skills and job readiness.
 
 **Key Features:**
+- Mock interview practice system
+- Question & answer evaluation
+- Skill improvement tracking
+- User-friendly learning experience
 
-* Mock interview practice
-* Performance evaluation
-* Career readiness support
-* User-friendly interface
-
-**Technologies:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
 
 ---
 
-### 🔹 Skill Hub
+### 🔹 Weather App
 
-A learning and skill development platform created to support users in enhancing their technical and professional competencies through organized learning resources and skill assessment features.
+A simple weather application to check real-time weather of any city.
 
-**Key Features:**
+**Features:**
+- City-based weather search
+- Temperature, humidity & conditions
+- API-based live weather data
+- Responsive UI
 
-* Skill development resources
-* Learning management features
-* User progress tracking
-* Career growth support
-
-**Technologies:** Java, Spring Boot, MySQL, HTML, CSS, JavaScript
+**Tech Stack:** React, Vite, Weather API, CSS
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathi291&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prathi291&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathi291&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathi291&theme=tokyonight" />
 </p>
-
----
-
-## 🎯 Career Objective
-
-To contribute to innovative software solutions while continuously enhancing my technical expertise and professional skills. I am passionate about leveraging technology to create meaningful and efficient applications that deliver value to users.
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/prathi291
+- GitHub: https://github.com/prathi291
 
 ---
 
